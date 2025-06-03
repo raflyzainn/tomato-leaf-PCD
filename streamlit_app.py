@@ -7,7 +7,7 @@ import gdown
 import os
 import matplotlib.pyplot as plt
 import random
-
+    
 # Konfigurasi
 st.set_page_config(page_title="Klasifikasi Daun Tomat", page_icon="🍅", layout="wide")
 
